@@ -99,6 +99,14 @@ footer {
     align-items: center;
 }
 
+footer {
+    background-color: var(--secondary-color);
+}
+
+section {
+    background-color: var(--accent2-color);
+}
+
 .socialmedia img {
     width: 32px;
     height: 32px;
