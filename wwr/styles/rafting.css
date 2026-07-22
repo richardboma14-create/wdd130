@@ -104,9 +104,6 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-
-footer {
     background-color: var(--secondary-color);
 }
 
